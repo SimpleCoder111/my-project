@@ -249,8 +249,8 @@
             <mxPoint x="260" y="520" as="targetPoint" />
             <mxPoint x="90" y="200" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="151" y="220" />
-              <mxPoint x="151" y="520" />
+              <mxPoint x="120" y="220" />
+              <mxPoint x="120" y="520" />
               <mxPoint x="260" y="520" />
             </Array>
           </mxGeometry>
@@ -290,8 +290,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="340" />
-              <mxPoint x="370" y="520" />
+              <mxPoint x="380" y="340" />
+              <mxPoint x="380" y="520" />
               <mxPoint x="260" y="520" />
             </Array>
           </mxGeometry>
@@ -301,8 +301,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_g6qejOSn8Ndv7I8-U3m-12" value="&lt;font size=&quot;1&quot;&gt;check interfaceId == &#39;appzillonGetAppSecTokens&quot; || &quot;appzillonOnAppLaunch&quot;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="170" y="300" width="180" height="80" as="geometry" />
+        <mxCell id="_g6qejOSn8Ndv7I8-U3m-12" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;check interfaceId == &#39;appzillonGetAppSecTokens&quot; || &quot;appzillonOnAppLaunch&quot;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
