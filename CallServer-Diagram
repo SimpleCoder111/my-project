@@ -195,7 +195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B4j_fPRXVxwocXdsFq4o-18" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;call getAESEncryptedStringForServerCalls() for appzillonBody&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="290" y="660" width="180" height="40" as="geometry" />
+          <mxGeometry x="260" y="660" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B4j_fPRXVxwocXdsFq4o-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="B4j_fPRXVxwocXdsFq4o-17" target="B4j_fPRXVxwocXdsFq4o-18">
           <mxGeometry relative="1" as="geometry" />
